@@ -16,6 +16,7 @@ main {
 }
 
 main > h1 {
-  text-align: center;
-  font-size: 3.5em;
+  text-align: right;
+  font-size: 4em;
+  font-style: italic;
 }
